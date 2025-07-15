@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [anotherAlbionBot](https://github.com/CalipoPA/anotherAlbionBot)
 
-- 👨‍💻 All of my projects are available at [https://github.com/CalipoPA](https://github.com/CalipoPA)
+- 👨‍💻 All of my projects are available at [https://github.com/CalipoPA](https://github.com/DoradoRodriguez)
 
 - 💬 Ask me about **html, css, javascript, python**
 
