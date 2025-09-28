@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript - TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DoradoRodriguez](https://github.com/DoradoRodriguez)
+- 👨‍💻 All of my projects are available at [My Profile](https://github.com/DoradoRodriguez)
 
 - 💬 Ask me about **Python**
 
