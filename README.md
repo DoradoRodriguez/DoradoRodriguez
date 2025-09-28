@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A passionate python developer from Spain</h3>
 
-- 🔭 I’m currently working on [WMakeIT]([https://github.com/CalipoPA/anotherAlbionBot](https://wmakeit.dev/))
+- 🔭 I’m currently working on [WMakeIT](https://wmakeit.dev/)
 
 - 🌱 I’m currently learning **JavaScript - TypeScript**
 
