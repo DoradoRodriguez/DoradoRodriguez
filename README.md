@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A passionate python developer from Spain</h3>
 
-- 🔭 I’m currently working on [anotherAlbionBot](https://github.com/CalipoPA/anotherAlbionBot)
+- 🔭 I’m currently working on [WMakeIT]([https://github.com/CalipoPA/anotherAlbionBot](https://wmakeit.dev/))
 
-- 🌱 I’m currently learning **Python, Django, DiscordPy, JavaScript**
-
-- 🤝 I’m looking for help with [anotherAlbionBot](https://github.com/CalipoPA/anotherAlbionBot)
+- 🌱 I’m currently learning **JavaScript - TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DoradoRodriguez](https://github.com/DoradoRodriguez)
 
-- 💬 Ask me about **html, css, javascript, python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **calipopa@proton.me**
 
